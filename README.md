@@ -11,5 +11,7 @@ yarn dev
 ```
 
 Projeto no Figma: https://www.figma.com/file/G4l9Yon7AXfOJ8VcDUvvCK/Pizzaria?t=Qa7Pr7mePkISQKvp-0
+
 Backend : https://github.com/Aline054/Restaurante_backend
+
 Mobile: https://github.com/Aline054/restaurante-mobile
